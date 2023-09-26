@@ -10,3 +10,6 @@ I have no idea what typical chinese names are and how you'd write them.
 So let's thake the extraordinary ones:
 苏 莫婷 - Su Moting
 沈清秋  - Shěn Qīngqiū
+
+
+This should be in the master branch now.

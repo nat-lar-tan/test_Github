@@ -1,11 +1,7 @@
 # Hi!
 
 This is just a small exercise to get working with Git and Github again.
-
-你好， 我不叫安娜。 
-我的名字是玉。 我住在上海， 我 是 大学校。我的妈妈爸爸是医生， 我的 哥哥 是 记者。 
-
-
+# new changes have been made
 I have no idea what typical chinese names are and how you'd write them.
 So let's thake the extraordinary ones:
 苏 莫婷 - Su Moting
@@ -13,3 +9,5 @@ So let's thake the extraordinary ones:
 
 
 This should be in the master branch now.
+
+This also concludes the 1hr lesson on Github for beginners.
